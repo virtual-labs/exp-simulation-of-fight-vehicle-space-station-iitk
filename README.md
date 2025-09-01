@@ -1,24 +1,26 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | </b> Virtual Reality
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Reality lab
+<b> Experiment|     <b> Simulation of Fight/Vehicle/Space Station
 
-### About the Experiment 
-
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. Aparna Dixit 
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b> PSIT 
 <b> Email id|     <b>  
-<b> Department |  
+<b> Department |  <b> Physics department
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Dr. Aparna Dixit (Mentor) | . | . | . | .
+2 | Utkarsh Rai | . | . | . | .
+3 | Ishita Trivedi | . | . | . | .
+4 | Aditya Tripathi | . | . | . | .
+5 | Utkarsh Mishra | . | . | . | .
+6 | Anushka Bajpai | . | . | . | .
+7 | Divyansh Pratap Singh | . | . | . | .
+
