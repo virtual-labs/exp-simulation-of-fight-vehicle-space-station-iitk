@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Vehicle simulation in VR is primarily used for:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Safe driving training and research"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The steering mechanism in a VR vehicle simulator is controlled by:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "VR controllers or steering wheel setup"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following is an advantage of VR vehicle simulation?",
+      "answers": {
+        "a": "Safe and repeatable training"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "In vehicle dynamics, braking distance depends on:",
+      "answers": {
+        "a": "Vehicle speed and road conditions"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "A VR vehicle simulator uses which component to create immersive 3D environments?",
+      "answers": {
+        "a": "Physics engine"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " Which sense is primarily engaged in VR vehicle simulation?",
+      "answers": {
+        "a": "Vision"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
