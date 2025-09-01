@@ -2,37 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In VR vehicle simulation, braking at higher speeds results in:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Longer braking distance"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The VR vehicle simulator helps students understand:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Driving dynamics and safety rules"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What is the primary advantage of practicing in a VR driving simulator?",
+      "answers": {
+        "a": "Risk-free driving experience"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Lane changing in VR vehicle simulation is controlled by:",
+      "answers": {
+        "a": "Steering input from controllers"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "In VR simulation, collision detection is based on:",
+      "answers": {
+        "a": "Physics engine calculations"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Practicing in VR before real driving helps in:",
+      "answers": {
+        "a": "Building driving skills safely"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
