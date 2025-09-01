@@ -3,7 +3,8 @@ Vehicle simulation in Virtual Reality (VR) is a powerful tool for learning and t
 * Operate vehicles with controllers that simulate steering, gear shifting, and acceleration.
 * Experience road conditions such as turns, slopes, and obstacles.
 * Practice safe driving techniques without the risk of accidents.
-* Learn concepts of speed, braking distance, fuel consumption, and environmental impact.<br><br>
+* Learn concepts of speed, braking distance, fuel consumption, and environmental impact.<br>
+
 <b>Advantages of VR vehicle simulation include:</b><br>
 * Safe, risk-free driving practice.<br>
 * Cost-effective compared to real training vehicles.<br>
