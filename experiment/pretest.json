@@ -2,49 +2,103 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Vehicle simulation in VR is primarily used for:",
+      "question": "1. Vehicle simulation in VR is primarily used for:",
       "answers": {
-        "a": "Safe driving training and research"
+        "a": "Safe driving training and research",
+        "b": "Entertainment racing games",
+        "c": "Vehicle manufacturing design only",
+        "d": "Road traffic monitoring"
+      },
+      "explanations": {
+        "a": "VR vehicle simulation allows drivers to practice in realistic scenarios safely without real-world risks.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "The steering mechanism in a VR vehicle simulator is controlled by:",
+      "question": "2. The steering mechanism in a VR vehicle simulator is controlled by:",
       "answers": {
-        "a": "VR controllers or steering wheel setup"
+        "a": "Pedal sensors only",
+        "b": "Headset orientation alone",
+        "c": "Voice commands",
+        "d": "VR controllers or steering wheel setup"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Steering is managed using VR devices or specialized controllers to mimic real driving. "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3. Which of the following is an advantage of VR vehicle simulation?",
+      "answers": {
+        "a": "Improves fuel efficiency directly",
+        "b": "Safe and repeatable training ",
+        "c": "Reduces vehicle weight ",
+        "d": "Automatically repairs vehicles "
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "VR enables repeated practice in controlled, risk-free conditions, improving skill development.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4. In vehicle dynamics, braking distance depends on:",
+      "answers": {
+        "a": "Vehicle color and brand",
+        "b": "Tire brand alone",
+        "c": "Engine size only",
+        "d": "Vehicle speed and road conditions "
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Higher speeds and poor road conditions increase braking distance; VR allows testing these safely. "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. A VR vehicle simulator uses which component to create immersive 3D environments?",
+      "answers": {
+        "a": "Physics engine",
+        "b": "GPS tracking system",
+        "c": "Audio amplifier",
+        "d": "Fuel injection system"
+      },
+      "explanations": {
+        "a": "The physics engine simulates realistic vehicle behavior and interactions in 3D environments.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
      {
-      "question": "Which of the following is an advantage of VR vehicle simulation?",
+      "question": "6. Which sense is primarily engaged in VR vehicle simulation?",
       "answers": {
-        "a": "Safe and repeatable training"
+        "a": "Vision",
+        "b": "Smell",
+        "c": "Taste",
+        "d": "Hearing only"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-     {
-      "question": "In vehicle dynamics, braking distance depends on:",
-      "answers": {
-        "a": "Vehicle speed and road conditions"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-     {
-      "question": "A VR vehicle simulator uses which component to create immersive 3D environments?",
-      "answers": {
-        "a": "Physics engine"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-     {
-      "question": " Which sense is primarily engaged in VR vehicle simulation?",
-      "answers": {
-        "a": "Vision"
+      "explanations": {
+        "a": "Visual input is the main sense used to navigate and interact within VR driving scenarios.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
