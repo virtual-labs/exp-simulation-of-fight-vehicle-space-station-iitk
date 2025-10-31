@@ -9,18 +9,14 @@
 <b>Name of Developer | <b> Prof. Aparna Dixit 
 :--|:--|
 <b> Institute | <b> PSIT 
-<b> Email id|     <b>  
+<b> Email id|     <b>  aparna.dixit@psit.ac.in 
 <b> Department |  <b> Physics department
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Aparna Dixit (Mentor) | . | . | . | .
-2 | Utkarsh Rai | . | . | . | .
-3 | Ishita Trivedi | . | . | . | .
-4 | Aditya Tripathi | . | . | . | .
-5 | Utkarsh Mishra | . | . | . | .
-6 | Anushka Bajpai | . | . | . | .
-7 | Divyansh Pratap Singh | . | . | . | .
+1 | Dr. Aparna Dixit (Mentor) | Faculty | Physics | PSIT | aparna.dixit@psit.ac.in
+2 | Akshay Tripathi| Student | CS | PSIT | .
+3 | Karan Kumar Singh | Student | IT | PSIT | .
 
