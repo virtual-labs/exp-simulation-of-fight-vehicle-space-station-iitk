@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d87af18c119c84d9a6df1ec1263070, type: 3}
+  m_Name: CareyFosterBridge
+  m_EditorClassIdentifier: Assembly-CSharp::LabData
+  heading: Carey Foster's Bridge to Measure Specific Resistance of Material
+  details: "Carey Foster\u2019s Bridge is an electrical circuit used to measure the
+    specific resistance of a material with high accuracy.\nIt compares the unknown
+    resistance of a wire sample with known resistances using a nearly balanced bridge
+    condition.\nThis method allows precise determination of resistivity by minimizing
+    measurement errors and using a sliding contact."
+  thumbnail: {fileID: 21300000, guid: 2920ea57eeba79344ba96c327a037d3e, type: 3}
+  sceneName: CareyFosterBridge

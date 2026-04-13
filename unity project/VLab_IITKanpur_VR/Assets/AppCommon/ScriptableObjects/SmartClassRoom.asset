@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d87af18c119c84d9a6df1ec1263070, type: 3}
+  m_Name: SmartClassRoom
+  m_EditorClassIdentifier: Assembly-CSharp::LabData
+  heading: Smart Class Room
+  details: 'A smart classroom uses modern digital tools to enhance teaching and learning.
+
+    Interactive
+    boards, projectors, and smart devices make lessons more engaging.
+
+    Students
+    can access multimedia content for better understanding.'
+  thumbnail: {fileID: 21300000, guid: 6917321ad1b504947b6a3075747b530c, type: 3}
+  sceneName: SmartClassroom
