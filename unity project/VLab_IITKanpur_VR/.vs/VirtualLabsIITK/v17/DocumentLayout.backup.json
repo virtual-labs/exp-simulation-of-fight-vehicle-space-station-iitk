@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\VirtualLabsIITK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsIITK\\assets\\simulations\\carey foster bridge\\scripts\\careyfostermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\carey foster bridge\\scripts\\careyfostermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsIITK\\assets\\simulations\\electron microscopy for beginners\\exp1\\scripts\\ep1_lefthandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\electron microscopy for beginners\\exp1\\scripts\\ep1_lefthandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|c:\\unity\\virtuallabsiitk\\assets\\_course library\\scripts\\testing\\displayfps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\_course library\\scripts\\testing\\displayfps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|c:\\unity\\virtuallabsiitk\\assets\\simulations\\electron microscopy for beginners\\exp1\\scripts\\ep1_righthandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329E4095-AC6E-0780-21EA-FBB76FB08DD7}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\electron microscopy for beginners\\exp1\\scripts\\ep1_righthandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayFPS.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsIITK\\Assets\\_Course Library\\Scripts\\Testing\\DisplayFPS.cs",
+              "RelativeDocumentMoniker": "Assets\\_Course Library\\Scripts\\Testing\\DisplayFPS.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsIITK\\Assets\\_Course Library\\Scripts\\Testing\\DisplayFPS.cs",
+              "RelativeToolTip": "Assets\\_Course Library\\Scripts\\Testing\\DisplayFPS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:24:47.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EP1_RightHandController.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsIITK\\Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_RightHandController.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_RightHandController.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsIITK\\Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_RightHandController.cs",
+              "RelativeToolTip": "Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_RightHandController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:47:32.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EP1_LeftHandController.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsIITK\\Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_LeftHandController.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_LeftHandController.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsIITK\\Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_LeftHandController.cs",
+              "RelativeToolTip": "Assets\\Simulations\\Electron Microscopy For Beginners\\EXP1\\Scripts\\EP1_LeftHandController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:24:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CareyFosterManager.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsIITK\\Assets\\Simulations\\Carey Foster Bridge\\Scripts\\CareyFosterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\Carey Foster Bridge\\Scripts\\CareyFosterManager.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsIITK\\Assets\\Simulations\\Carey Foster Bridge\\Scripts\\CareyFosterManager.cs",
+              "RelativeToolTip": "Assets\\Simulations\\Carey Foster Bridge\\Scripts\\CareyFosterManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T06:02:14.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

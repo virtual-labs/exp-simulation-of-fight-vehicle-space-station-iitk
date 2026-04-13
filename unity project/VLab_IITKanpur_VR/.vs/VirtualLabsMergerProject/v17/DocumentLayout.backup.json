@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\VirtualLabsMergerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|c:\\unity\\virtuallabsmergerproject\\assets\\simulations\\carsimulation\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\carsimulation\\scripts\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\simulations\\carsimulation\\scripts\\manualcontinuousturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\carsimulation\\scripts\\manualcontinuousturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\simulations\\carsimulation\\scripts\\manualcontinuousmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\carsimulation\\scripts\\manualcontinuousmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\appcommon\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\appcommon\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\simulations\\introtovr\\scripts\\introtovrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\introtovr\\scripts\\introtovrmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\simulations\\architecturedesign\\scripts\\architecturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\architecturedesign\\scripts\\architecturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\simulations\\architecturedesign\\scripts\\objectscaledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\architecturedesign\\scripts\\objectscaledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\simulations\\engineassembly\\scripts\\engineassemblymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\simulations\\engineassembly\\scripts\\engineassemblymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|C:\\Unity\\VirtualLabsMergerProject\\assets\\appcommon\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD404C1-05E0-2148-B072-762E751A7D06}|Assembly-CSharp.csproj|solutionrelative:assets\\appcommon\\scripts\\appmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManualContinuousMove.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousMove.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousMove.cs",
+              "RelativeToolTip": "Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:28:47.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManualContinuousTurn.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousTurn.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousTurn.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousTurn.cs",
+              "RelativeToolTip": "Assets\\Simulations\\CarSimulation\\Scripts\\ManualContinuousTurn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:27:26.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\CarSimulation\\Scripts\\CarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\CarSimulation\\Scripts\\CarController.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\CarSimulation\\Scripts\\CarController.cs",
+              "RelativeToolTip": "Assets\\Simulations\\CarSimulation\\Scripts\\CarController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwIUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:33:35.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntroToVRManager.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\IntroToVR\\Scripts\\IntroToVRManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\IntroToVR\\Scripts\\IntroToVRManager.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\IntroToVR\\Scripts\\IntroToVRManager.cs",
+              "RelativeToolTip": "Assets\\Simulations\\IntroToVR\\Scripts\\IntroToVRManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:25:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EngineAssemblyManager.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\EngineAssembly\\Scripts\\EngineAssemblyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\EngineAssembly\\Scripts\\EngineAssemblyManager.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\EngineAssembly\\Scripts\\EngineAssemblyManager.cs",
+              "RelativeToolTip": "Assets\\Simulations\\EngineAssembly\\Scripts\\EngineAssemblyManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T05:57:56.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArchitectureManager.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\ArchitectureDesign\\Scripts\\ArchitectureManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\ArchitectureDesign\\Scripts\\ArchitectureManager.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\ArchitectureDesign\\Scripts\\ArchitectureManager.cs",
+              "RelativeToolTip": "Assets\\Simulations\\ArchitectureDesign\\Scripts\\ArchitectureManager.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:03:58.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectScaleData.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\ArchitectureDesign\\Scripts\\ObjectScaleData.cs",
+              "RelativeDocumentMoniker": "Assets\\Simulations\\ArchitectureDesign\\Scripts\\ObjectScaleData.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\Simulations\\ArchitectureDesign\\Scripts\\ObjectScaleData.cs",
+              "RelativeToolTip": "Assets\\Simulations\\ArchitectureDesign\\Scripts\\ObjectScaleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:57:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\AppCommon\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AppCommon\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\AppCommon\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\AppCommon\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:06:10.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppManager.cs",
+              "DocumentMoniker": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\AppCommon\\Scripts\\AppManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AppCommon\\Scripts\\AppManager.cs",
+              "ToolTip": "C:\\Unity\\VirtualLabsMergerProject\\Assets\\AppCommon\\Scripts\\AppManager.cs",
+              "RelativeToolTip": "Assets\\AppCommon\\Scripts\\AppManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:33:37.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
