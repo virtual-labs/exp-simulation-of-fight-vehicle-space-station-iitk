@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. In VR vehicle simulation, braking at higher speeds results in:",
+      "answers": {
+        "a": "Shorter braking distance ",
+        "b": "No change in braking distance",
+        "c": "Vehicle automatically stops instantly ",
+        "d": "Longer braking distancewer4"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Higher speeds require more distance to stop, which VR allows learners to observe safely. "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The VR vehicle simulator helps students understand:",
+      "answers": {
+        "a": "Vehicle color preferences",
+        "b": "Driving dynamics and safety rules",
+        "c": "Engine manufacturing process only",
+        "d": "Fuel consumption in isolation"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "VR simulators teach how vehicles respond and safe driving techniques in different scenarios.",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "3. What is the primary advantage of practicing in a VR driving simulator?",
+      "answers": {
+        "a": "Risk-free driving experience",
+        "b": "Real fuel consumption savings ",
+        "c": "Faster vehicle engine performance",
+        "d": "Automatic license issuance "
+      },
+      "explanations": {
+        "a": "VR allows learners to practice driving safely without real-world risks.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4. Lane changing in VR vehicle simulation is controlled by:",
+      "answers": {
+        "a": "Steering input from controllers",
+        "b": "Pedal pressure alone",
+        "c": "Head movements only ",
+        "d": "Voice commands"
+      },
+      "explanations": {
+        "a": "Lane changes are performed using steering inputs through VR devices, mimicking real driving behavior.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. In VR simulation, collision detection is based on:",
+      "answers": {
+        "a": "Vehicle brand",
+        "b": "Engine size ",
+        "c": "Physics engine calculations",
+        "d": "Road paint color"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "The physics engine calculates collisions realistically for safe, immersive learning.",
+        "d": "Explanation"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "6. Practicing in VR before real driving helps in:",
+      "answers": {
+        "a": "Building driving skills safely",
+        "b": "Reducing vehicle tire wear",
+        "c": "Improving fuel quality ",
+        "d": "Enhancing car audio systems"
+      },
+      "explanations": {
+        "a": "VR allows learners to develop practical driving skills before handling a real vehicle.",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

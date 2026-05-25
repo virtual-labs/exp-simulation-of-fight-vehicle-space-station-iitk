@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VR Project Guide</title>
+<link rel="stylesheet" href="./css/main.css">
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+  }
+
+  .text-section {
+    flex: 1;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+  .video-section {
+    flex: 1;
+    text-align: center;
+  }
+
+  video {
+    width: 100%;
+    max-width: 640px;
+    border-radius: 10px;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  ul li::before {
+    content: "• ";
+    color: #444;
+  }
+
+  @media (max-width: 900px) {
+    .container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .text-section, .video-section {
+      width: 100%;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h2>Running a VR Project APK on a VR Headset Using Google Drive Link</h2>
+<div style="text-align: center; margin-top: 10px;">
+  <b>APK Link - 
+    <a href="https://drive.google.com/file/d/1yJrNP4zwRIp3RCLZvPaSDHMFVE6Zo3A5/view?usp=drive_link" target="_blank">
+      Click here to download
+    </a>
+  </b>
+</div>
+<div class="container">
+  <!-- Left Section: Text -->
+  <div class="text-section">
+    <!-- <p><strong>Using Google Drive Link</strong></p> -->
+    <p><strong>Prerequisites :</strong></p>
+    <ul>
+      <li>A VR headset that supports APK installation (e.g., Meta Quest 2/3, Pico, HTC Vive Focus, etc.)</li>
+      <li>Google Drive link containing the APK file</li>
+      <li>PC or directly on headset with internet access</li>
+      <li>USB-C cable (if transferring via PC)</li>
+      <li>Developer Mode enabled on VR headset (for APK sideloading)</li>
+    </ul>
+
+    <p><strong>Step 1 — Access the APK</strong></p>
+    <ul>
+      <li>Open the Google Drive link provided.</li>
+      <li>Download the APK file:</li>
+      <li>If using VR headset browser, download directly into the device.</li>
+      <li>If using PC/Laptop, download to your system for later transfer.</li>
+    </ul>
+
+    <p><strong>Step 2 — Enable Developer Mode (if APK does not auto-install)</strong></p>
+    <ul>
+      <li><strong>Meta Quest Example:</strong></li>
+      <li>Open Meta Quest mobile app on your phone.</li>
+      <li>Go to Devices → Your Headset → Developer Mode.</li>
+      <li>Enable Developer Mode and restart headset.</li>
+      <li>For other headsets, enable via Settings → Developer Options / Sideload Mode.</li>
+    </ul>
+
+    <p><strong>Step 3 — Transfer & Install the APK</strong></p>
+    <ul>
+      <li><strong>Method 1: Install Directly on VR Headset (Easiest):</strong></li>
+      <li>Open Browser (Chrome/Files App) in VR.</li>
+      <li>Open the Google Drive link.</li>
+      <li>Click Download → Install APK.</li>
+      <li>Grant permission when prompted: Allow Install from Unknown Sources.</li>
+      <li>Once installed, check under Apps → Unknown Sources / Installed Apps.</li>
+    </ul>
+
+    <ul>
+      <li><strong>Method 2: PC to VR Headset (Via USB Cable/Sideload):</strong></li>
+      <li>Connect the headset to PC via USB-C cable.</li>
+      <li>Allow File Transfer (MTP Mode) on headset.</li>
+      <li>Copy the APK file into the Downloads folder of the headset.</li>
+      <li>Use a File Manager in VR to locate and Install APK.</li>
+      <li>Confirm installation and look under Apps → Unknown Sources.</li>
+    </ul>
+
+    <p><strong>Step 4 — Launch the VR App</strong></p>
+    <ul>
+      <li>Go to Library / Apps Section in VR headset.</li>
+      <li>Switch filter to Unknown Sources / Installed Apps.</li>
+      <li>Select your app and launch the VR experience.</li>
+    </ul>
+
+    <p><strong>Step 5 — Cleanup & Testing</strong></p>
+    <ul>
+      <li>Make sure permissions for camera/motion/tracking are granted.</li>
+      <li>If app crashes, recheck correct APK build type.</li>
+      <li>Optional: Use SideQuest or ADB Logs if debugging is required.</li>
+    </ul>
+
+    <p><strong>Optional — Using SideQuest for Better Control</strong></p>
+    <ul>
+      <li>Install SideQuest on PC → Connect headset → Drag & Drop APK → Auto Install.</li>
+      <li>Launch from Unknown Sources.</li>
+    </ul>
+
+    <p><strong>Common Issues & Solutions :</strong></p>
+    <ul>
+      <li><b>APK not visible:</b> Installed under Unknown Sources → Change filter in Apps menu.</li>
+      <li><b>“Can’t install” error:</b> Developer Mode not enabled → Enable Dev Mode & retry.</li>
+      <li><b>Black screen/crash:</b> APK not built for your VR platform → Request correct build.</li>
+      <li><b>Installation blocked:</b> Unknown apps not allowed → Enable Install from Unknown Sources in Settings.</li>
+    </ul>
+  </div>
+
+  <!-- Right Section: Video -->
+  <div class="video-section">
+    <h3>Demo Video</h3>
+    <video controls>
+      <source src="https://github.com/user-attachments/assets/d9c7705d-cd0e-42d0-93eb-607ce3ac42ec" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</html>
